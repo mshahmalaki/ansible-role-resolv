@@ -3,7 +3,7 @@ galaxy_info:
   author: Peter Hudec
   description: role for setting /etc/resolv.conf
   license: BSD
-  min_ansible_version: 1.4
+  min_ansible_version: "1.4"
 
   platforms:
   - name: EL
